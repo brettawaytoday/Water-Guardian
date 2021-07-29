@@ -2,9 +2,13 @@
 
 ## Swim Unit ##
 
+<img src="https://github.com/brettawaytoday/Water-Guardian/blob/main/Images/WG_swimUnit002.png" height="200"> <img src="https://github.com/brettawaytoday/Water-Guardian/blob/main/Images/WG_swimUnit003.png" height="200">
+
 Water Guardian is made up of a micro controller, Lora Module, GPS module, temperature sensor and rechargeable battery. It is housed in a waterproof sleeve attached to the swimmers rash vest, between their shoulder blades. 
 The air pocket at the top end of the sleeve ensures that the antennas will float on the surface and only submerge if the swimmers head becomes submerged.
 The microcontroller sends an encrypted “heartbeat” every 2 seconds with time, GPS position and temperature on the LoRa 915MHz band.
+
+<img src="https://github.com/brettawaytoday/Water-Guardian/blob/main/Images/WG_conceptPrototype.png" height="600"> <img src="https://github.com/brettawaytoday/Water-Guardian/blob/main/Images/WG_swimUnit001.png" height="600"> <img src="https://github.com/brettawaytoday/Water-Guardian/blob/main/Images/WG_swimUnit004.png" height="600">
 
 ## Base Station ##
 
